@@ -1,0 +1,28 @@
+url: "https://bethard.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+author:
+  name: "Steven Bethard"
+  email: "bethard@arizona.edu"
+  address:
+    street: 1103 E. 2nd St.
+    location: Tucson, AZ 85721
+  phone: "+1 520 621 5223"
+  photo: "Steven-Bethard.jpg"
+  cv: bethard-curriculum-vitae.pdf
+  calendars:
+    - purpose: Advising
+      name: Trellis
+      link: https://ua-trellis.force.com/uastudent/s/advisor-calendar?NetId=bethard
+  social:
+    - name: Google Scholar
+      link: http://scholar.google.com/citations?user=sXM8J5EAAAAJ
+      icon: mortarboard
+    - name: LinkedIn
+      link: https://www.linkedin.com/in/bethard
+      icon: linkedin
+    - name: GitHub
+      link: https://github.com/bethard
+      icon: github
+    - name: Stack Overflow
+      link: https://stackoverflow.com/users/384641/
+      icon: stack-overflow

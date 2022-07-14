@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{ site.author.name }} - {{ page.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/default.css" | relative_url }}">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css">
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-sm navbar-dark px-4" style="background-color: #AB0520;">
+      <a class="navbar-brand" href="#">{{ site.author.name }}</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="container-fluid">
+        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+          <div class="navbar-nav">
+            {% for nav_page in site.pages %}
+            <a class="nav-link" {% if nav_page.url == page.url %}aria-current="page"{% endif %} href="{{ nav_page.url | relative_url }}">{{ nav_page.title }}</a>
+            {% endfor -%}
+          </div>
+        </div>
+      </div>
+    </nav>
+    <div class="container-fluid py-3">
+      <div class="row">
+        <aside class="col-2" style="min-width: 12em">
+          <div class="p-1">
+            <p>
+              <img alt="{{site.author.name}}" src="{{ '/assets/images' | relative_url }}/{{site.author.photo}}" width="160" height="160"></img>
+            </p>
+            <p>
+              <a rel="me" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a><br/>
+            </p>
+            <p>
+              {{ site.author.address.street }}<br/>
+              {{ site.author.address.location }}<br/>
+              <a href="tel:{{ site.author.phone | remove: ' '  | remove: '-'}}">{{site.author.phone}}</a><br/>
+            </p>
+            <p>
+              {% for calendar in site.author.calendars %}
+              {{calendar.purpose}} via <a href="{{calendar.link}}">{{calendar.name}}</a>
+              {% endfor -%}
+            </p>
+            <p>
+              <a href="{{ '/assets' | relative_url }}/{{site.author.cv}}">Curriculum Vitae</a>
+            </p>
+            <p>
+              {% for social_site in site.author.social %}
+              <a rel="me" alt="{{socal_site.name}}" href="{{social_site.link}}" target="_blank"><i class="bi bi-{{social_site.icon}}"></i></a>
+              {% endfor -%}
+            </p>
+          </div>
+        </aside>
+        <div class="col">
+          <main class="page-content px-1" aria-label="Content">
+            {{ content }}
+          </main>
+        </div>
+      </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
