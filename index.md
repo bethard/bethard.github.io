@@ -27,12 +27,3 @@ My past funded projects include:
 
 * [Automated Domain Adaptation for Clinical Natural Language Processing (NIH NLM R01LM012918)](https://reporter.nih.gov/project-details/9579181), in which we were designing algorithms that can improve machine learning models trained in one medical institution with data from another institution without any need for sharing of patient data.
 * [Voice Assistant for Data Entry and Recording (VADER; USAF SBIR FA8649-21-P-0834)](https://www.sbir.gov/node/2165081), in which we were designing speech-to-text algorithms to assist aircraft maintainers in logging their activities.
-
-# Prospective students #
-
-I am not currently looking for any additional PhD students.
-
-If you are already a student at the University of Arizona, I accept some undergraduate and graduate students for semester-long directed research projects.
-I prefer students who have taken [ISTA 457](https://ischool.arizona.edu/course/ista-457-neural-networks)/[INFO 557](https://ischool.arizona.edu/course/info-557-neural-networks) (Neural Networks) and/or [ISTA 439](https://ischool.arizona.edu/course/ista-439-statistical-natural-language-processing-cross-listed-ling-439)/[INFO 539](https://ischool.arizona.edu/course/info-539-statistical-natural-language-processing-cross-listed-ling-539) (Statistical Natural Language Processing).
-I also occasionally have pure linguistics or pure programming projects that do not require these courses.
-If you are interested in discussing research possibilities with me, please email me your experience and interests.
