@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Students"
+order: 1
 ---
 
 # Prospective students #

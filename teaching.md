@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Teaching"
+order: 3
 ---
 
 # Teaching #
