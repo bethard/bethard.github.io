@@ -28,31 +28,35 @@
     <div class="container-fluid py-3">
       <div class="row">
         <aside class="col-sm-3 col-xs-12" style="min-width: 12em">
-          <div class="p-1">
-            <p>
-              <img alt="{{site.author.name}}" src="{{ '/assets/images' | relative_url }}/{{site.author.photo}}" width="160" height="160"></img>
-            </p>
-            <p>
-              <a rel="me" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a><br/>
-            </p>
-            <p>
-              {{ site.author.address.street }}<br/>
-              {{ site.author.address.location }}<br/>
-              <a rel="me" href="tel:{{ site.author.phone | remove: ' '  | remove: '-'}}">{{site.author.phone}}</a><br/>
-            </p>
-            <p>
-              {% for calendar in site.author.calendars %}
-              {{calendar.purpose}} via <a rel="me" href="{{calendar.link}}">{{calendar.name}}</a>
-              {% endfor -%}
-            </p>
-            <p>
-              <a rel="me" href="{{ '/assets' | relative_url }}/{{site.author.cv}}">Curriculum Vitae</a>
-            </p>
-            <p>
-              {% for social_site in site.author.social %}
-              <a rel="me" title="{{site.author.name}} at {{social_site.name}}" href="{{social_site.link}}" target="_blank"><i class="bi bi-{{social_site.icon}}"></i></a>
-              {% endfor -%}
-            </p>
+          <div class="row row-cols-sm-1 row-cols-xs-2">
+            <div class="col">
+              <p>
+                <img alt="{{site.author.name}}" src="{{ '/assets/images' | relative_url }}/{{site.author.photo}}" width="160" height="160"></img>
+              </p>
+              <p>
+                <a rel="me" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a><br/>
+              </p>
+            </div>
+            <div class="col">
+              <p>
+                {% for social_site in site.author.social %}
+                <a rel="me" title="{{site.author.name}} at {{social_site.name}}" href="{{social_site.link}}" target="_blank"><i class="bi bi-{{social_site.icon}}"></i></a>
+                {% endfor -%}
+              </p>
+              <p>
+                {{ site.author.address.street }}<br/>
+                {{ site.author.address.location }}<br/>
+                <a rel="me" href="tel:{{ site.author.phone | remove: ' '  | remove: '-'}}">{{site.author.phone}}</a><br/>
+              </p>
+              <p>
+                {% for calendar in site.author.calendars %}
+                {{calendar.purpose}} via <a rel="me" href="{{calendar.link}}">{{calendar.name}}</a>
+                {% endfor -%}
+              </p>
+              <p>
+                <a rel="me" href="{{ '/assets' | relative_url }}/{{site.author.cv}}">Curriculum Vitae</a>
+              </p>
+            </div>
           </div>
         </aside>
         <div class="col" style="max-width: 720px;">
