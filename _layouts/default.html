@@ -38,19 +38,19 @@
             <p>
               {{ site.author.address.street }}<br/>
               {{ site.author.address.location }}<br/>
-              <a href="tel:{{ site.author.phone | remove: ' '  | remove: '-'}}">{{site.author.phone}}</a><br/>
+              <a rel="me" href="tel:{{ site.author.phone | remove: ' '  | remove: '-'}}">{{site.author.phone}}</a><br/>
             </p>
             <p>
               {% for calendar in site.author.calendars %}
-              {{calendar.purpose}} via <a href="{{calendar.link}}">{{calendar.name}}</a>
+              {{calendar.purpose}} via <a rel="me" href="{{calendar.link}}">{{calendar.name}}</a>
               {% endfor -%}
             </p>
             <p>
-              <a href="{{ '/assets' | relative_url }}/{{site.author.cv}}">Curriculum Vitae</a>
+              <a rel="me" href="{{ '/assets' | relative_url }}/{{site.author.cv}}">Curriculum Vitae</a>
             </p>
             <p>
               {% for social_site in site.author.social %}
-              <a rel="me" alt="{{socal_site.name}}" href="{{social_site.link}}" target="_blank"><i class="bi bi-{{social_site.icon}}"></i></a>
+              <a rel="me" title="{{site.author.name}} at {{social_site.name}}" href="{{social_site.link}}" target="_blank"><i class="bi bi-{{social_site.icon}}"></i></a>
               {% endfor -%}
             </p>
           </div>
