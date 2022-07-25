@@ -6,8 +6,11 @@ order: 1
 
 # Prospective students #
 
-I am not currently looking for any additional PhD students.
-If you are already at the University of Arizona, are interested in a one-semester directed research, and have taken [ISTA 457](https://ischool.arizona.edu/course/ista-457-neural-networks)/[INFO 557](https://ischool.arizona.edu/course/info-557-neural-networks) (Neural Networks) and/or [ISTA 439](https://ischool.arizona.edu/course/ista-439-statistical-natural-language-processing-cross-listed-ling-439)/[INFO 539](https://ischool.arizona.edu/course/info-539-statistical-natural-language-processing-cross-listed-ling-539) (Statistical Natural Language Processing), please email me your experience and interests.
+If you are a prospective PhD student hoping to work with me, you do not need to email me.
+Just directly [apply to the INFO PhD program](https://grad.arizona.edu/catalog/programinfo/INFOPHD) and list me as the professor you want to work with on the application form.
+You may also [apply to the CS PhD program](https://grad.arizona.edu/catalog/programinfo/COSCPHD), though such applications would only come to me if faculty in CS are not interested in advising you.
+
+If you are an undergraduate or masters student, are already at the University of Arizona, are interested in a one-semester directed research, and have taken [ISTA 457](https://ischool.arizona.edu/course/ista-457-neural-networks)/[INFO 557](https://ischool.arizona.edu/course/info-557-neural-networks) (Neural Networks) and/or [ISTA 439](https://ischool.arizona.edu/course/ista-439-statistical-natural-language-processing-cross-listed-ling-439)/[INFO 539](https://ischool.arizona.edu/course/info-539-statistical-natural-language-processing-cross-listed-ling-539) (Statistical Natural Language Processing), please email me your experience and interests.
 
 # Current students #
 
