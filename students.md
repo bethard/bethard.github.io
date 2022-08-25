@@ -6,7 +6,7 @@ order: 1
 
 # Prospective students #
 
-If you are a prospective PhD student hoping to work with me, you do not need to email me.
+If you are a prospective PhD student hoping to work with me, you do not need to email me, as PhD admissions are made not by me but by a departmental committee.
 Just directly [apply to the INFO PhD program](https://grad.arizona.edu/catalog/programinfo/INFOPHD) and list me as the professor you want to work with on the application form.
 You may also [apply to the CS PhD program](https://grad.arizona.edu/catalog/programinfo/COSCPHD), though such applications would only come to me if faculty in CS are not interested in advising you.
 
