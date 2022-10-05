@@ -22,6 +22,7 @@ My ongoing funded projects include:
 * [Extended Methods and Software Development for Health NLP (NIH NIGMS R01GM114355; funded since 2016)](https://reporter.nih.gov/project-details/10209178), in which we are designing machine learning algorithms that leverage large collections of text to improve information extraction tasks such as mapping text to ontologies and discovering links between health events.
 * [A Data Science Platform and Mechanisms for Its Sustainability (NSF SMA RIDIR 1831551; funded since 2018)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1831551), in which we are designing information extraction algorithms to make it easier to search environmental impact statements.
 * [Using Natural Language Processing to Determine Predictors of Healthy Diet and Physical Activity Behavior Change in Ovarian Cancer Survivors (NIH NCI R21CA256680; funded since 2021)](https://reporter.nih.gov/project-details/10510666), in which we are designing machine-learning algorithms to analyze conversations in behavioral interventions, with the goal of improving patient outcomes by improving how patients are coached.
+* [Learning science concepts through metaphor comprehension, production, and conversation: Behavioral, neural and artificial intelligence measures (NSF BCS 2140897; funded since 2022)](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2140897), in which we are using language models to help students improve their science knowledge by generating metaphors.
 
 My past funded projects include:
 
