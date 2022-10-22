@@ -33,9 +33,6 @@
               <p>
                 <img alt="{{site.data.author.name}}" src="{{ '/assets/images' | relative_url }}/{{site.data.author.photo}}" width="160" height="160"></img>
               </p>
-              <p>
-                <a rel="me" href="mailto:{{ site.data.author.email }}">{{ site.data.author.email }}</a><br/>
-              </p>
             </div>
             <div class="col">
               <p>
@@ -44,9 +41,7 @@
                 {% endfor -%}
               </p>
               <p>
-                {{ site.data.author.address.street }}<br/>
-                {{ site.data.author.address.location }}<br/>
-                <a rel="me" href="tel:{{ site.data.author.phone | remove: ' '  | remove: '-'}}">{{site.data.author.phone}}</a><br/>
+                <a href="{{ site.data.author.map }}">{{ site.data.author.address }}</a><br/>
               </p>
               <p>
                 {% for calendar in site.data.author.calendars %}

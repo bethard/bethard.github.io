@@ -1,8 +1,9 @@
 name: "Steven Bethard"
-email: "bethard@arizona.edu"
-address:
-  street: 1103 E. 2nd St.
-  location: Tucson, AZ 85721
+address: |
+  Harvill Building 445C<br/>
+  1103 E. 2nd St. <br/>
+  Tucson, AZ 85721
+map: https://map.arizona.edu/76
 phone: "+1 520 621 5223"
 photo: "Steven-Bethard.jpg"
 cv: bethard-curriculum-vitae.pdf
@@ -11,6 +12,9 @@ calendars:
     name: Trellis
     link: https://ua-trellis.force.com/uastudent/s/advisor-calendar?NetId=bethard
 social:
+  - name: Email
+    link: mailto:bethard@arizona.edu
+    icon: envelope
   - name: Google Scholar
     link: http://scholar.google.com/citations?user=sXM8J5EAAAAJ
     icon: mortarboard
@@ -23,3 +27,6 @@ social:
   - name: Stack Overflow
     link: https://stackoverflow.com/users/384641/
     icon: stack-overflow
+  - name: Phone
+    link: tel:+1-520-621-5223
+    icon: telephone
