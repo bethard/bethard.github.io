@@ -12,9 +12,6 @@ calendars:
     name: Trellis
     link: https://ua-trellis.force.com/uastudent/s/advisor-calendar?NetId=bethard
 social:
-  - name: Email
-    link: mailto:bethard@arizona.edu
-    icon: envelope
   - name: Google Scholar
     link: http://scholar.google.com/citations?user=sXM8J5EAAAAJ
     icon: mortarboard
@@ -30,3 +27,6 @@ social:
   - name: Phone
     link: tel:+1-520-621-5223
     icon: telephone
+  - name: Email
+    link: mailto:bethard@arizona.edu
+    icon: envelope
