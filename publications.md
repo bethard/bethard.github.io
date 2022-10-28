@@ -6,7 +6,7 @@ order: 2
 
 # Publications #
 
-<script src="https://bibbase.org/show?bib=http://clulab.cs.arizona.edu/papers/bethard.bib&jsonp=1&fullnames=1"></script>
+<script src="https://bibbase.org/show?bib=https://raw.githubusercontent.com/bethard/bethard.github.io/main/assets/bethard.bib&jsonp=1&fullnames=1"></script>
 <script>
 // hack bibbase toggles to work with Bootstrap 5
 bibbaseHeaderElem = document.getElementById("bibbase_header");
