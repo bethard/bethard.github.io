@@ -6,6 +6,16 @@ order: 4
 
 # Software #
 
+## roberta-base-namecalling ##
+
+I developed [roberta-base-namecalling](https://huggingface.co/civility-lab/roberta-base-namecalling), a transformer neural network fine-tuned on ~12K social media posts annotated for the presence or absence of namecalling.
+This was joint work with my colleagues
+[Steve Rains](https://comm.arizona.edu/user/steve-rains),
+[Yotam Shmargad](https://www.yotamshmargad.com/),
+[Kate Kenski](https://comm.arizona.edu/user/kate-kenski),
+and [Kevin Coe](https://faculty.utah.edu/u0915886-Kevin_Coe/).
+
+
 ## TimeNorm: time expression normalization ##
 
 I developed [timenorm](https://github.com/bethard/timenorm), a parser for normalizing time expressions initially based on synchronous context free grammars and later based on neural network models. It can recognize, for example, that if today is 2020-12-11, then "the next three weeks" should be normalized to the interval [2020-12-12T00:00, 2021-01-02T00:00).
