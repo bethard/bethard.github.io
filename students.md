@@ -11,7 +11,13 @@ The committee will be looking for signs of research potential, where the stronge
 If you have such a publication or otherwise believe you would be a competitive applicant, you may directly [apply to the INFO PhD program](https://grad.arizona.edu/catalog/programinfo/INFOPHD) and list me as the professor you want to work with on the application form.
 You may also [apply to the CS PhD program](https://grad.arizona.edu/catalog/programinfo/COSCPHD), though such applications would only come to me if faculty in CS are not interested in advising you.
 
-If you are an undergraduate or masters student, are already at the University of Arizona, are interested in a one-semester directed research, and have taken [ISTA 457](https://ischool.arizona.edu/course/ista-457-neural-networks)/[INFO 557](https://ischool.arizona.edu/course/info-557-neural-networks) (Neural Networks) and/or [ISTA 439](https://ischool.arizona.edu/course/ista-439-statistical-natural-language-processing-cross-listed-ling-439)/[INFO 539](https://ischool.arizona.edu/course/info-539-statistical-natural-language-processing-cross-listed-ling-539) (Statistical Natural Language Processing), please email me your experience and interests.
+If you are an undergraduate or masters student interested in a one-semester directed research, I typically take on a small number of students each semester who:
+
+* are already at the University of Arizona
+* have achieved A grades in [ISTA 457](https://ischool.arizona.edu/course/ista-457-neural-networks)/[INFO 557](https://ischool.arizona.edu/course/info-557-neural-networks) (Neural Networks) and/or [ISTA 439](https://ischool.arizona.edu/course/ista-439-statistical-natural-language-processing-cross-listed-ling-439)/[INFO 539](https://ischool.arizona.edu/course/info-539-statistical-natural-language-processing-cross-listed-ling-539) (Statistical Natural Language Processing)
+* are interested in working on one of my [ongoing projects](projects.html) or one of the current [SemEval tasks](https://semeval.github.io/)
+
+If you meet all of the above criteria, please email me which project or task you would be interested in, along with your prior experience.
 
 # Current students #
 
