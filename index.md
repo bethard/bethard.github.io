@@ -15,6 +15,7 @@ and as a postdoctoral researcher at
 [Johns Hopkins University's Human Language Technology Center of Excellence](http://hltcoe.jhu.edu/),
 [KULeuven's Language Intelligence and Information Retrieval group](http://liir.cs.kuleuven.be/) in Belgium,
 and the [University of Colorado's Center for Language and Education Research](https://www.colorado.edu/lab/clear/).
+I got my Ph.D. in Computer Science and Cognitive Science from the [University of Colorado Boulder](https://www.colorado.edu/).
 
 My research interests include natural language processing and machine learning theory and applications, including modeling the language of time and timelines, normalizing text to medical and geospatial ontologies, and information extraction models for clinical applications.
 There is a large community at the University of Arizona pursuing similar natural language processing research. Visit us at: <http://nlp.arizona.edu/>
