@@ -6,10 +6,13 @@ order: 1
 
 # Prospective students #
 
-If you are a prospective PhD student hoping to work with me, you do not need to email me, as PhD admissions are made not by me but by a departmental committee.
-The committee will be looking for signs of research potential, where the strongest candidates will have a publication in a natural language processing workshop, conference, or journal such as those on the [ACL Anthology](https://aclanthology.org/).
-If you have such a publication or otherwise believe you would be a competitive applicant, you may directly [apply to the INFO PhD program](https://grad.arizona.edu/catalog/programinfo/INFOPHD) and list me as the professor you want to work with on the application form.
-You may also [apply to the CS PhD program](https://grad.arizona.edu/catalog/programinfo/COSCPHD), though such applications would only come to me if faculty in CS are not interested in advising you.
+If you are a prospective PhD student hoping to work with me, instead of emailing me, directly [apply to the INFO PhD program](https://grad.arizona.edu/catalog/programinfo/INFOPHD).
+A compelling application will include:
+
+* a candidate statement that explains why we would be a good fit for each other, for example, because you have prior research related to my [ongoing projects](projects.html)
+* a curriculum vitae tha demonstrates your research potential through publications in natural language processing workshops, conferences, or journals such as those on the [ACL Anthology](https://aclanthology.org/).
+
+
 
 If you are an undergraduate or masters student interested in a one-semester directed research, I typically take on a small number of students each semester who:
 
