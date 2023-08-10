@@ -10,7 +10,7 @@ If you are a prospective PhD student hoping to work with me, instead of emailing
 A compelling application will include:
 
 * a candidate statement that explains why we would be a good fit for each other, for example, because you have prior research related to my [ongoing projects](projects.html)
-* a curriculum vitae tha demonstrates your research potential through publications in natural language processing workshops, conferences, or journals such as those on the [ACL Anthology](https://aclanthology.org/).
+* a curriculum vitae that demonstrates your research potential through publications in natural language processing workshops, conferences, or journals such as those on the [ACL Anthology](https://aclanthology.org/).
 
 
 
