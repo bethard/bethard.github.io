@@ -28,10 +28,11 @@ If you meet all of the above criteria, please email me which project or task you
 * [Sarah Stueve](https://ischool.arizona.edu/people/sarah-stueve)
 * [Xin Su](https://ischool.arizona.edu/people/xin-su)
 * [Jiacheng Zhang](https://ischool.arizona.edu/people/jiacheng-zhang)
-* [Zeyu Zhang](https://jerryzeyu.github.io/)
 
 # Graduated students #
 
+* [Zeyu Zhang](https://www.linkedin.com/in/zeyu-zhang-902035147/), Ph.D., Information, University of Arizona, 2023
+  Thesis: [Improving Geocoding by Incorporating Geographical Hierarchy and Attributes Into Transformer Networks](https://repository.arizona.edu/handle/10150/670290)
 * [Yiyun Zhao](https://www.linkedin.com/in/yiyunzhaoluna/), Ph.D., Linguistics, University of Arizona, 2022  
   Thesis: [How to probe linguistic knowledge and bias](https://repository.arizona.edu/handle/10150/665646)
 * [Dongfang Xu](https://www.linkedin.com/in/dongfangxu9), Ph.D., Information, University of Arizona, 2021  
