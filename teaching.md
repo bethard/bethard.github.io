@@ -7,7 +7,7 @@ order: 4
 # Teaching #
 
 At the University of Arizona:
-
+* Fall 2023: [ISTA 457](https://ischool.arizona.edu/course/ista-457-neural-networks)/[INFO 557](https://ischool.arizona.edu/course/info-557-neural-networks), Neural Networks
 * Fall 2022: [ISTA 457](https://ischool.arizona.edu/course/ista-457-neural-networks)/[INFO 557](https://ischool.arizona.edu/course/info-557-neural-networks), Neural Networks
 * Spring 2022: [INFO 507](https://ischool.arizona.edu/course/info-507-information-research-methods), Information Research Methods
 * Fall 2021: [ISTA 457](https://ischool.arizona.edu/course/ista-457-neural-networks)/[INFO 557](https://ischool.arizona.edu/course/info-557-neural-networks), Neural Networks
