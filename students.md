@@ -6,21 +6,7 @@ order: 1
 
 # Prospective students #
 
-If you are a prospective PhD student hoping to work with me, instead of emailing me, directly [apply to the INFO PhD program](https://grad.arizona.edu/catalog/programinfo/INFOPHD).
-A compelling application will include:
-
-* a candidate statement that explains why we would be a good fit for each other, for example, because you have prior research related to my [ongoing projects](projects.html)
-* a curriculum vitae that demonstrates your research potential through publications in natural language processing workshops, conferences, or journals such as those on the [ACL Anthology](https://aclanthology.org/).
-
-
-
-If you are an undergraduate or masters student interested in a one-semester directed research, I typically take on a small number of students each semester who:
-
-* are already at the University of Arizona
-* have achieved A grades in [ISTA 457](https://ischool.arizona.edu/course/ista-457-neural-networks)/[INFO 557](https://ischool.arizona.edu/course/info-557-neural-networks) (Neural Networks) and/or [ISTA 439](https://ischool.arizona.edu/course/ista-439-statistical-natural-language-processing-cross-listed-ling-439)/[INFO 539](https://ischool.arizona.edu/course/info-539-statistical-natural-language-processing-cross-listed-ling-539) (Statistical Natural Language Processing)
-* are interested in working on one of my [ongoing projects](projects.html) or one of the current [SemEval tasks](https://semeval.github.io/)
-
-If you meet all of the above criteria, please email me which project or task you would be interested in, along with your prior experience.
+I am not taking on any additional students at this time, as I will be on sabbatical for the 2024-2025 school year.
 
 # Current students #
 
