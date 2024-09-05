@@ -6,7 +6,7 @@ order: 1
 
 # Prospective students #
 
-I am not taking on any additional students at this time, as I will be on sabbatical for the 2024-2025 school year.
+I am not taking on any additional students at this time, as I am on sabbatical.
 
 # Current students #
 
