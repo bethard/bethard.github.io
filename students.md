@@ -8,6 +8,14 @@ order: 1
 
 I am not taking on any additional students at this time, as I am on sabbatical.
 
+# Graduate assistants #
+
+Please do not email me asking for teaching assistant positions.
+Teaching assistant positions are assigned by the department; I have no role in that process.
+
+Please do not email me asking for research assistant positions.
+When I have funding for student research, I allocate it to students who are already working in my lab, typically my doctoral students.
+
 # Current students #
 
 * [Kadir Bulut Özler](https://ischool.arizona.edu/people/bulut-ozler)
