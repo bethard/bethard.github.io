@@ -34,11 +34,11 @@ When I have funding for student research, I allocate it to students who are alre
 * [Zeyu Zhang](https://www.linkedin.com/in/zeyu-zhang-902035147/), Ph.D., Information, University of Arizona, 2023  
   Dissertation: [Improving Geocoding by Incorporating Geographical Hierarchy and Attributes Into Transformer Networks](https://repository.arizona.edu/handle/10150/670290)
 * [Winston Zeng](https://www.linkedin.com/in/winston-zeng-a65a50159/), B.S., Computer Science, University of Arizona, 2023  
-  Thesis: Fine-tuning Transformer-based Natural Language Generation Algorithms for USDA Grains Reports for Farmers, Producers, and Small Businesses
+  Thesis: [Fine-tuning Transformer-based Natural Language Generation Algorithms for USDA Grains Reports for Farmers, Producers, and Small Businesses](https://repository.arizona.edu/handle/10150/668771)
 * [Yiyun Zhao](https://www.linkedin.com/in/yiyunzhaoluna/), Ph.D., Linguistics, University of Arizona, 2022  
   Dissertation: [How to probe linguistic knowledge and bias](https://repository.arizona.edu/handle/10150/665646)
 * [Amanda Bertsch](https://www.linkedin.com/in/amandabertsch/), B.S., Computer Science, University of Arizona, 2021  
-  Thesis: Detection of Puffery on the English Wikipedia
+  Thesis: [Deep Learning for Bias Detection on the English Wikipedia](https://repository.arizona.edu/handle/10150/666568)
 * [Dongfang Xu](https://www.linkedin.com/in/dongfangxu9), Ph.D., Information, University of Arizona, 2021  
   Dissertation: [Neural Network Algorithms for Ontology Informed Information Extraction](https://repository.arizona.edu/handle/10150/650879)
 * [Jiacheng Zhang](https://ischool.arizona.edu/people/jiacheng-zhang), M.S., Computer Science, University of Arizona, 2021  
