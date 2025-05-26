@@ -22,13 +22,17 @@ When I have funding for student research, I allocate it to students who are alre
 
 # Current students #
 
-* [Kadir Bulut Özler](https://ischool.arizona.edu/people/bulut-ozler)
-* [Sarah Stueve](https://ischool.arizona.edu/people/sarah-stueve)
-* [Jiacheng Zhang](https://ischool.arizona.edu/people/jiacheng-zhang)
-* [Abhyuday Singh](https://www.linkedin.com/in/abhyudaysingh31)
+* [Kadir Bulut Özler](https://www.linkedin.com/in/kbozler/)
+* [Sarah Stueve](https://www.linkedin.com/in/sarah-stueve/)
+* [Jiacheng Zhang](https://www.linkedin.com/in/jiacheng-z-316147142/)
+* [Yeaeun Kwon](https://yeaeunkwon.github.io/)
+* [Ayesha Khatun](https://www.linkedin.com/in/ayeshakhatunsujana/)
+
 
 # Graduated students #
 
+* [Abhyuday Singh](https://www.linkedin.com/in/abhyudaysingh31), B.S., Computer Science, University of Arizona, 2025  
+  Thesis: Comparing Pretrained Llms Across Transformer, State-Space And Hybrid Architectures
 * [Xin Su](https://www.linkedin.com/in/xin-su-7a5297125/), Ph.D., Information, University of Arizona, 2024  
   Dissertation: [Structured Information Extraction and Applications in Complex Reasoning](https://repository.arizona.edu/handle/10150/675500)
 * [Sarah Hyunju Song](https://www.linkedin.com/in/sarah-hyunju-song-a93894232), M.S., Computer Science, University of Arizona, 2024  
