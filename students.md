@@ -39,7 +39,7 @@ When I have funding for student research, I allocate it to students who are alre
   Dissertation: [Structured Information Extraction and Applications in Complex Reasoning](https://repository.arizona.edu/handle/10150/675500)
 * [Sarah Hyunju Song](https://www.linkedin.com/in/sarah-hyunju-song-a93894232), M.S., Computer Science, University of Arizona, 2024  
   Thesis: [Metadata Enhancement Using Large Language Models: Improving the Quality of Aggregated Records in the iSamples Project](https://repository.arizona.edu/handle/10150/672555)
-* Tugay Bilgis, B.S., Computer Science, University of Arizona, 2024  
+* [Tugay Bilgis](https://www.linkedin.com/in/tbilgis/), B.S., Computer Science, University of Arizona, 2024  
   Thesis: Revisiting Medical Concept Normalization: a Comparative Analysis of Transformer-based Models and Search Engine Approaches
 * [Zeyu Zhang](https://www.linkedin.com/in/zeyu-zhang-902035147/), Ph.D., Information, University of Arizona, 2023  
   Dissertation: [Improving Geocoding by Incorporating Geographical Hierarchy and Attributes Into Transformer Networks](https://repository.arizona.edu/handle/10150/670290)
@@ -59,5 +59,5 @@ When I have funding for student research, I allocate it to students who are alre
   Dissertation: [User behavior in social media: engagement, incivility, and depression](https://repository.arizona.edu/handle/10150/633192)
 * [John Osborne](https://www.linkedin.com/in/john-osborne-11baa154/), Ph.D., Computer and Information Sciences, University of Alabama at Birmingham, 2016  
   Dissertation: [Machine Learning of Composite Concepts and the Alleviation of The Content Completeness Problem in Text Mention Normalization](https://www.proquest.com/docview/1853119123)
-* [Upendra Sapkota](https://www.linkedin.com/in/upendra-sapkota/), Ph.D., Computer and Information Sciences, University of Alabama at Birmingham, 2015  
+* [Upendra Sapkota](https://www.linkedin.com/in/inf-pen/), Ph.D., Computer and Information Sciences, University of Alabama at Birmingham, 2015  
   Dissertation: [Improving the performance of cross-domain authorship attribution](https://www.proquest.com/docview/1750069695/)
