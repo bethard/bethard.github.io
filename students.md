@@ -16,8 +16,8 @@ I will select a small number of directed research students from the best such ap
 
 # Graduate assistants #
 
-Please do not email me asking for paid teaching assistant positions.
-Teaching assistant positions are assigned by the department; I have no role in that process.
+Please do not email me asking for paid teaching assistant or grader positions.
+Teaching assistant and grader positions are assigned by the department; I have no role in that process.
 
 Please do not email me asking for paid research assistant positions.
 When I have funding for student research, I allocate it to students who are already working in my lab, typically my doctoral students.
