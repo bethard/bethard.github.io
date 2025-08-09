@@ -11,7 +11,7 @@ I will not be taking on any additional Ph.D. students before Fall 2027 at the ea
 I am also not taking on any advisees who are not currently students at the University of Arizona.
 
 If you are a current University of Arizona undergraduate or masters student, I will be taking on one-semester directed research students in Fall 2025 to work on [SemEval 2026](https://semeval.github.io/SemEval2026/) shared tasks.
-If you are interested in such a directed research, wait until the SemEval 2026 tasks are announced (probably in August 2025), then send me an email with which task you would like to participate in, and a list of your prior experience and/or coursework in natural language processing and machine learning.
+If you are interested in such a directed research, send me an email with which task you would like to participate in, and a list of your prior experience and/or coursework in natural language processing and machine learning.
 I will select a small number of directed research students from the best such applications.
 
 # Graduate assistants #
