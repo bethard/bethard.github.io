@@ -6,7 +6,7 @@ order: 1
 
 # Prospective students #
 
-I will not be considering applications for Ph.D. students before December 2026. If you are a prospective PhD student hoping to work with me, instead of emailing me, directly [apply to the INFO PhD program](https://grad.arizona.edu/admissions-guides/#program/INFOPHD).
+I will not be considering applications for Ph.D. students before December 2026 (i.e., for students wanting to start the program in Fall 2027). If you are a prospective PhD student hoping to work with me, instead of emailing me, directly [apply to the INFO PhD program](https://grad.arizona.edu/admissions-guides/#program/INFOPHD).
 A compelling application will include:
 * a candidate statement that explains why we would be a good fit for each other, for example, because you have prior research related to my [ongoing projects](projects.html)
 * a curriculum vitae that demonstrates your research potential through publications in natural language processing workshops, conferences, or journals such as those on the [ACL Anthology](https://aclanthology.org/).
