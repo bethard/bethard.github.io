@@ -15,7 +15,7 @@ If you are a current University of Arizona undergraduate or masters student, I w
 If you are interested in such a directed research, wait until the SemEval 2027 tasks are announced (probably in August 2026), then send me an email with which task you would like to participate in, and a list of your prior experience and/or coursework in natural language processing and machine learning.
 I will select a small number of directed research students from the best such applications.
 
-I am not taking on any advisees who are not currently students at the University of Arizona.
+I am not taking on any advisees who are not currently students at the University of Arizona or other Tucson area schools.
 
 # Graduate assistants #
 
