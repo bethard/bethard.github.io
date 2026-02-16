@@ -4,16 +4,20 @@ title: "Students"
 order: 1
 ---
 
-# Prospective students #
+# Prospective PhD students #
 
 I will not be considering applications for Ph.D. students before December 2026 (i.e., for students wanting to start the program in Fall 2027). If you are a prospective PhD student hoping to work with me, instead of emailing me, directly [apply to the INFO PhD program](https://grad.arizona.edu/admissions-guides/#program/INFOPHD).
 A compelling application will include:
 * a candidate statement that explains why we would be a good fit for each other, for example, because you have prior research related to my [ongoing projects](projects.html)
 * a curriculum vitae that demonstrates your research potential through publications in natural language processing workshops, conferences, or journals such as those on the [ACL Anthology](https://aclanthology.org/).
 
+# Prospective undergraduate or masters students #
+
 If you are a current University of Arizona undergraduate or masters student, I will be taking on one-semester directed research students in Fall 2026 to work on [SemEval 2027](https://semeval.github.io/) shared tasks.
 If you are interested in such a directed research, wait until the SemEval 2027 tasks are announced (probably in August 2026), then send me an email with which task you would like to participate in, and a list of your prior experience and/or coursework in natural language processing and machine learning.
 I will select a small number of directed research students from the best such applications.
+
+# Other prospective students #
 
 I am not taking on any advisees who are not currently students at the University of Arizona or other Tucson area schools.
 
