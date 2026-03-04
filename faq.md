@@ -4,6 +4,8 @@ title: "FAQ"
 order: 1
 ---
 
+# Frequently Asked Questions #
+
 <div class="accordion accordion-flush" id="faq">
   {% for question in site.data.faq.questions %}
   <div class="accordion-item">
