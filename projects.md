@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Projects"
-order: 2
+order: 3
 ---
 
 # Projects #

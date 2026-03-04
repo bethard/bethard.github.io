@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Publications"
-order: 3
+order: 4
 ---
 
 # Publications #

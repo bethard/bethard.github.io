@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Software"
-order: 5
+order: 6
 ---
 
 # Software #

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Teaching"
-order: 4
+order: 5
 ---
 
 # Teaching #
