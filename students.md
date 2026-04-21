@@ -24,7 +24,6 @@ Masters:
 
 Undergraduate:
 * Hyungji Kim
-* Minglai Yang
 
 # Graduated students #
 
@@ -32,7 +31,7 @@ Undergraduate:
   Thesis: Comparing Pretrained Llms Across Transformer, State-Space And Hybrid Architectures
 * [Xin Su](https://www.linkedin.com/in/xin-su-7a5297125/), Ph.D., Information, University of Arizona, 2024  
   Dissertation: [Structured Information Extraction and Applications in Complex Reasoning](https://repository.arizona.edu/handle/10150/675500)
-* [Sarah Hyunju Song](https://www.linkedin.com/in/sarah-hyunju-song-a93894232), M.S., Computer Science, University of Arizona, 2024  
+* [Sarah Hyunju Song](https://www.linkedin.com/in/hyunjussong/), M.S., Computer Science, University of Arizona, 2024  
   Thesis: [Metadata Enhancement Using Large Language Models: Improving the Quality of Aggregated Records in the iSamples Project](https://repository.arizona.edu/handle/10150/672555)
 * [Tugay Bilgis](https://www.linkedin.com/in/tbilgis/), B.S., Computer Science, University of Arizona, 2024  
   Thesis: Revisiting Medical Concept Normalization: a Comparative Analysis of Transformer-based Models and Search Engine Approaches
