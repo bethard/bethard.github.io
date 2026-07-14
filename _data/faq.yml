@@ -1,9 +1,9 @@
 questions:
   - q: "I am a prospective doctoral student. Can I join your research?"
     a: doctoral
-  - q: "I am a University of Arizona masters student. Can I join your research?"
+  - q: "I am an enrolled University of Arizona graduate student. Can I join your research?"
     a: semeval
-  - q: "I am a University of Arizona undergraduate student. Can I join your research?"
+  - q: "I am an enrolled University of Arizona undergraduate student. Can I join your research?"
     a: semeval
   - q: "I am a Tucson area high school student. Can I join your research?"
     a: semeval
