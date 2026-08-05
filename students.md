@@ -10,6 +10,8 @@ Post-doctoral:
 * [Egoitz Laparra](https://egolaparra.github.io/)
 
 Doctoral:
+* [Gaurav Sharma](https://www.linkedin.com/in/gauravsh0812/), co-advised with [Eungjoo Lee](https://ece.engineering.arizona.edu/faculty-staff/faculty/eung-joo-lee)
+* [Jeremiah Gaiser](https://wheelerlab.org/people-pages/jeremiah-gaiser/), co-advised with [Travis Wheeler](https://wheelerlab.org/people-pages/travis-wheeler/)
 * [Kadir Bulut Özler](https://www.linkedin.com/in/kbozler/)
 * [Sarah Stueve](https://www.linkedin.com/in/sarah-stueve/)
 * [Jiacheng Zhang](https://www.linkedin.com/in/jiacheng-z-316147142/)
@@ -19,11 +21,7 @@ Doctoral:
 
 Masters:
 * Sai Laasya Gorantla
-* Siva Rohit Kondapaneni
 * Shreemithra Naveen
-
-Undergraduate:
-* Hyungji Kim
 
 # Graduated students #
 
