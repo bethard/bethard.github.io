@@ -7,6 +7,8 @@ order: 5
 # Teaching #
 
 At the University of Arizona:
+* Fall 2026: [ISTA 457](https://catalog.arizona.edu/courses/0399091)/[INFO 557](https://catalog.arizona.edu/courses/0399101), Neural Networks
+* Spring 2026: [ISTA 457](https://catalog.arizona.edu/courses/0399091)/[INFO 557](https://catalog.arizona.edu/courses/0399101), Neural Networks
 * Fall 2025: [ISTA 457](https://catalog.arizona.edu/courses/0399091)/[INFO 557](https://catalog.arizona.edu/courses/0399101), Neural Networks
 * Fall 2023: [ISTA 457](https://catalog.arizona.edu/courses/0399091)/[INFO 557](https://catalog.arizona.edu/courses/0399101), Neural Networks
 * Fall 2022: [ISTA 457](https://catalog.arizona.edu/courses/0399091)/[INFO 557](https://catalog.arizona.edu/courses/0399101), Neural Networks
