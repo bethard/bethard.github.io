@@ -49,7 +49,7 @@ Masters:
   Thesis: [General Benefits of Mono-Lingual Pre-Training in Transformers](https://repository.arizona.edu/handle/10150/660173)
 * [Vikas Yadav](https://www.linkedin.com/in/vyf95/), Ph.D., Information, University of Arizona, 2020  
   Dissertation: [Evidence Retrieval for Explainable Question Answering](https://repository.arizona.edu/handle/10150/656828)  
-  [co-advised with [Mihai Surdeanu](https://www.linkedin.com/in/mihai-surdeanu-a15766146/)]
+  [Co-advised with [Mihai Surdeanu](https://www.linkedin.com/in/mihai-surdeanu-a15766146/)]
 * [Farig Sadeque](https://www.linkedin.com/in/farig-sadeque-a982125b/), Ph.D., Information, University of Arizona, 2019  
   Dissertation: [User behavior in social media: engagement, incivility, and depression](https://repository.arizona.edu/handle/10150/633192)
 * [John Osborne](https://www.linkedin.com/in/john-osborne-11baa154/), Ph.D., Computer and Information Sciences, University of Alabama at Birmingham, 2016  
