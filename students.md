@@ -10,7 +10,6 @@ Post-doctoral:
 * [Egoitz Laparra](https://egolaparra.github.io/)
 
 Doctoral:
-* [Gaurav Sharma](https://www.linkedin.com/in/gauravsh0812/), co-advised with [Eungjoo Lee](https://ece.engineering.arizona.edu/faculty-staff/faculty/eung-joo-lee)
 * [Jeremiah Gaiser](https://wheelerlab.org/people-pages/jeremiah-gaiser/), co-advised with [Travis Wheeler](https://wheelerlab.org/people-pages/travis-wheeler/)
 * [Kadir Bulut Özler](https://www.linkedin.com/in/kbozler/)
 * [Sarah Stueve](https://www.linkedin.com/in/sarah-stueve/)
@@ -25,6 +24,9 @@ Masters:
 
 # Graduated students #
 
+* [Gaurav Sharma](https://www.linkedin.com/in/gauravsh0812/), Ph.D., Information, University of Arizona, 2026  
+  Dissertation: [Representation Learning for Intelligent Visual Understanding](https://repository.arizona.edu/handle/10150/681309)  
+  [Co-advised with [Eungjoo Lee](https://ece.engineering.arizona.edu/faculty-staff/faculty/eung-joo-lee)]
 * [Abhyuday Singh](https://www.linkedin.com/in/abhyudaysingh31), B.S., Computer Science, University of Arizona, 2025  
   Thesis: Comparing Pretrained Llms Across Transformer, State-Space And Hybrid Architectures
 * [Xin Su](https://www.linkedin.com/in/xin-su-7a5297125/), Ph.D., Information, University of Arizona, 2024  
@@ -46,10 +48,13 @@ Masters:
 * [Jiacheng Zhang](https://ischool.arizona.edu/people/jiacheng-zhang), M.S., Computer Science, University of Arizona, 2021  
   Thesis: [General Benefits of Mono-Lingual Pre-Training in Transformers](https://repository.arizona.edu/handle/10150/660173)
 * [Vikas Yadav](https://www.linkedin.com/in/vyf95/), Ph.D., Information, University of Arizona, 2020  
-  Dissertation: [Evidence Retrieval for Explainable Question Answering](https://repository.arizona.edu/handle/10150/656828)
+  Dissertation: [Evidence Retrieval for Explainable Question Answering](https://repository.arizona.edu/handle/10150/656828)  
+  [co-advised with [Mihai Surdeanu](https://www.linkedin.com/in/mihai-surdeanu-a15766146/)]
 * [Farig Sadeque](https://www.linkedin.com/in/farig-sadeque-a982125b/), Ph.D., Information, University of Arizona, 2019  
   Dissertation: [User behavior in social media: engagement, incivility, and depression](https://repository.arizona.edu/handle/10150/633192)
 * [John Osborne](https://www.linkedin.com/in/john-osborne-11baa154/), Ph.D., Computer and Information Sciences, University of Alabama at Birmingham, 2016  
-  Dissertation: [Machine Learning of Composite Concepts and the Alleviation of The Content Completeness Problem in Text Mention Normalization](https://www.proquest.com/docview/1853119123)
+  Dissertation: [Machine Learning of Composite Concepts and the Alleviation of The Content Completeness Problem in Text Mention Normalization](https://www.proquest.com/docview/1853119123)  
+  [Co-advised with [Thamar Solorio](https://www.linkedin.com/in/thamar-solorio/)]
 * [Upendra Sapkota](https://www.linkedin.com/in/inf-pen/), Ph.D., Computer and Information Sciences, University of Alabama at Birmingham, 2015  
-  Dissertation: [Improving the performance of cross-domain authorship attribution](https://www.proquest.com/docview/1750069695/)
+  Dissertation: [Improving the performance of cross-domain authorship attribution](https://www.proquest.com/docview/1750069695/)  
+  [Co-advised with [Thamar Solorio](https://www.linkedin.com/in/thamar-solorio/)]
